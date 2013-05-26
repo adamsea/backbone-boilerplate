@@ -4,7 +4,7 @@
   "dependencies": {
     "requirejs": "2.1.6",
     "almond": "0.2.5",
-    "jquery": "adamsea/custom-jquery#2.0.1",
+    "jquery": "git://github.com/adamsea/custom-jquery#2.0.1",
     "lodash": "git://github.com/adamsea/custom-lodash#1.2.1",
     "backbone": "1.0.0",
     "layoutmanager": "0.8.8"
