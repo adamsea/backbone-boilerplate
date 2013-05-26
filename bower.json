@@ -2,11 +2,11 @@
   "name": "backbone-boilerplate",
   "version": "0.1.0",
   "dependencies": {
-    "requirejs": "*",
-    "almond": "*",
-    "jquery": "*",
-    "lodash": "*",
-    "backbone": "*",
-    "layoutmanager": "*"
+    "requirejs": "2.1.6",
+    "almond": "0.2.5",
+    "adamsea/custom-jquery": "2.0.1",
+    "adamsea/custom-lodash": "1.2.1",
+    "backbone": "1.0.0",
+    "layoutmanager": "0.8.8"
   }
 }
